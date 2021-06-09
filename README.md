@@ -1,2 +1,3 @@
 # Continuous-Time-Frank-Wolfe-Does-not-Zig-Zag
-NeurIPS
+### NeurIPS 2021
+
